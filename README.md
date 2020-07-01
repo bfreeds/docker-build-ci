@@ -1,5 +1,7 @@
 # Docker Build CI
 
+![Docker Image CI](https://github.com/bfreeds/docker-build-ci/workflows/Docker%20Image%20CI/badge.svg)
+
 > Demo repo for setting up automated Docker image builds
 
 ## Resources
